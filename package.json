@@ -1,0 +1,24 @@
+{
+  "name": "railway-ticket-booking-app",
+  "version": "1.0.0",
+  "description": "Railway ticket booking app for booking tatkal ticket in less time.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sharewithvirus/Railway-Booking-App.git"
+  },
+  "keywords": [
+    "railway",
+    "ticket",
+    "booking"
+  ],
+  "author": "Vaibhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharewithvirus/Railway-Booking-App/issues"
+  },
+  "homepage": "https://github.com/sharewithvirus/Railway-Booking-App#readme"
+}
